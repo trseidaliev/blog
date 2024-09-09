@@ -9,10 +9,10 @@ summary: Пост по неделе
 projects: []
 
 # Date published
-date: '2024-08-25T00:00:00Z'
+date: '2024-09-02T00:00:00Z'
 
 # Date updated
-lastmod: '2024-08-25T00:00:00Z'
+lastmod: '2024-09-02T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
